@@ -2,7 +2,7 @@
 Case Frontend Filmes Populares de Promobit
 
 # `Link`
-promobit-luuhlf.surge.sh
+promobit-hlf.surge.sh
 
 
 # `Descrição`
@@ -10,7 +10,7 @@ O Projeto filmes populares Promobit foi desenvolvido como uma atividade dentro d
 
 *a API pode ser encontrada [aqui](https://www.themoviedb.org/)
 </br>
-O repositório do projeto pode ser encontrado [aqui](https://github.com/Luuhlf)
+O repositório do projeto pode ser encontrado [aqui](https://github.com/Luuhlf/teste)
 
 
 # `Instalando e rodando o projeto`
